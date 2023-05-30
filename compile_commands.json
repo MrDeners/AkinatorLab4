@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/vikto/OneDrive/Рабочий стол/Lab4",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Practic.dir\\main.c.obj -c \"C:\\Users\\vikto\\OneDrive\\Рабочий стол\\Lab4\\main.c\"",
+  "file": "C:/Users/vikto/OneDrive/Рабочий стол/Lab4/main.c",
+  "output": "CMakeFiles/Practic.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/vikto/OneDrive/Рабочий стол/Lab4",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe    -o CMakeFiles\\Practic.dir\\func.c.obj -c \"C:\\Users\\vikto\\OneDrive\\Рабочий стол\\Lab4\\func.c\"",
+  "file": "C:/Users/vikto/OneDrive/Рабочий стол/Lab4/func.c",
+  "output": "CMakeFiles/Practic.dir/func.c.obj"
+}
+]
